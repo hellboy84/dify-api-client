@@ -147,5 +147,4 @@ python question_batch.py
 
 ---
 
-**開発者**: [hellboy84](https://github.com/hellboy84)  
 **作成日**: 2025年7月22日
