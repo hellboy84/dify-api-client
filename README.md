@@ -137,7 +137,7 @@ python question_batch.py
 
 ## 🔗 関連リンク
 
-- [Dify API Documentation](https://docs.dify.ai/getting-started/install-self-hosted/docker-compose)
+- [Dify API Documentation](https://docs.dify.ai/en/openapi-api-access-readme#api-access)
 - [Python Requests Documentation](https://docs.python-requests.org/)
 
 ## 📄 ライセンス
