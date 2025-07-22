@@ -69,7 +69,8 @@ python dify_client.py
 
 ### バッチ処理モード
 
-`questions.txt`に記載された質問を一括処理し、結果をCSVファイルに保存します：
+`questions.txt`に記載された質問を一括処理し、結果をCSVファイルに保存します。  
+各行ごとに新しい質問として処理されます：
 
 ```bash
 python question_batch.py
@@ -79,7 +80,7 @@ python question_batch.py
 
 ### 質問ファイルの編集
 
-`questions.txt`に質問を1行ずつ記載してください。各行ごとに新しい質問として処理されます：
+`questions.txt`に質問を1行ずつ記載してください：
 
 ```txt
 大橋病院に勤務しています。研究費で資料を買いましたがどうすればいいですか？
